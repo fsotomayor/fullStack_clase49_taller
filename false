@@ -1,0 +1,2 @@
+      invoke  active_record
+      create    db/migrate/20170715005413_add_premium_to_products.rb
